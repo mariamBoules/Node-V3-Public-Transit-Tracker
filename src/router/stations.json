@@ -1,0 +1,138 @@
+[
+{
+    "latitude": 31.247947927902292,
+    "longitude": 29.96749407474598,
+    "id": 1,
+    "type": "Bus bahr",
+    "description": "26th july el geish 31.247947927902292,29.96749407474598",
+    "path": [1, 2]
+},
+{
+    "latitude": 31.241673792166367,
+    "longitude": 29.96045595818043,
+    "id": 2,
+    "type": "Bus bahr",
+    "description": "Gleem Bay el geish",
+    "path": [1, 2]
+},
+{
+    "latitude": 31.20577366008916,
+    "longitude": 29.925545977295986,
+    "id": 3,
+    "type": "Bus Abuqeer",
+    "description": "Engineering Abouqueer",
+    "path": [3, 4]
+},
+{
+    "latitude": 31.22789564958678,
+    "longitude": 29.951358791614325,
+    "id": 4,
+    "type": "Bus Abuqeer",
+    "description": "Deeb Mall Abouqueer",
+    "path": [3, 4]
+},
+{
+    "latitude": 31.20071064807695,
+    "longitude": 29.89106960486688,
+    "id": 5,
+    "type": "Bus bahr",
+    "description": "been handasa w bahary",
+    "path": [1, 2]
+},
+{
+    "latitude": 31.202046525735405,
+    "longitude": 29.900791991888422,
+    "id": 6,
+    "type": "Bus bahr",
+    "description": "m7atet el raml",
+    "path": [1, 2]
+},
+{
+    "latitude": 31.23122736600025,
+    "longitude": 29.955568435920313,
+    "id": 7,
+    "type": "Bus Abuqeer",
+    "description": "lizabella abo qeer",
+    "path": [3, 4]
+},
+{
+    "latitude": 31.21242771647327,
+    "longitude": 29.916890465980824,
+    "id": 8,
+    "type": "Bus bahr",
+    "description": "el shatby",
+    "path": [1, 2]
+},
+{
+    "latitude": 31.208026927488064,
+    "longitude": 29.92964888423659,
+    "id": 9,
+    "type": "Bus Abuqeer",
+    "description": "no2tet el ibrahmya",
+    "path": [3, 4]
+},
+{
+    "latitude": 31.207427339005932,
+    "longitude": 29.938148892902777,
+    "id": 10,
+    "type": "Bus Semouha",
+    "description": "Health Bureau - Semouha",
+    "path": [5, 6]
+},
+{
+    "latitude": 31.21075481701111,
+    "longitude": 29.920033792689676,
+    "id": 11,
+    "type": "Bus Abuqeer",
+    "description": "kobry el gam3a",
+    "path": [3, 4]
+},
+{
+    "latitude": 31.200529053740077,
+    "longitude": 29.89394783001097,
+    "id": 12,
+    "type": "Bus bahr",
+    "description": "el ma7kkama",
+    "path": [1, 2]
+},
+{
+    "latitude": 31.20166589944467,
+    "longitude": 29.900974688317472,
+    "id": 13,
+    "type": "Tram",
+    "description": "Special ID mhatet el raml",
+    "path": [7, 8]
+},
+{
+    "latitude": 31.24952050257433,
+    "longitude": 29.9794239390037,
+    "id": 14,
+    "type": "Tram",
+    "description": "special ID victoria",
+    "path": [7, 8]
+},
+{
+    "latitude": 31.239694206492175,
+    "longitude": 29.960183524439515,
+    "id": 15,
+    "type": "Tram",
+    "description": "gleem",
+    "path": [7, 8]
+},
+{
+    "latitude": 31.247405607605643,
+    "longitude": 29.96866935960872,
+    "id": 16,
+    "type": "Tram",
+    "description": "san stefano",
+    "path": [7, 8]
+},
+{
+    "latitude": 31.211367151951944,
+    "longitude": 29.920615250958974,
+    "id": 17,
+    "type": "Tram",
+    "description": "El gam3a tram station",
+    "path": [7, 8]
+}
+]

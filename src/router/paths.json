@@ -1,0 +1,20 @@
+[
+
+    {
+        "id": 1,
+        "stations": ["60a431f33662405484e5b83b", "60a431f33662405484e5b83c", "60a431f33662405484e5b843", "60a431f33662405484e5b83f"],
+        "description": "El geish going from 26th july to gleem to near citadel"
+    },
+    {
+        "id": 2,
+        "stations": ["60a431f33662405484e5b83f","60a431f33662405484e5b843","60a431f33662405484e5b83c", "60a431f33662405484e5b83b"],
+        "description": "Citadel to 26th july el geish way"
+    },
+    {
+        "id": 3,
+        "stations": ["60a431f33662405484e5b83d", "60a431f33662405484e5b83e","60a431f33662405484e5b841"],
+        "description": "handasa to lizabella abouqueer"
+    }
+]
+
+

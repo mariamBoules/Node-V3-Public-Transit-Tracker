@@ -1,0 +1,47 @@
+ [
+    {
+        "plateNo": "س ع ع 3789",
+        "type": "Double-Decker Bus",
+        "status": true,
+        "lastStation": "60a431f33662405484e5b83b",
+        "path": [1, 2],
+        "latitude": 31.247947927902292,
+        "longitude": 29.96749407474598,  
+        "description": "3and 26 El geish going from 26th july to gleem to near citadel ",
+        "fare": 10
+    },
+    {
+        "plateNo": "س ع ع 3755",
+         "type": "Electric Bus",
+        "status": true,
+        "lastStation": "60a431f33662405484e5b83c",
+        "path": [1, 2],
+        "latitude": 31.241673792166367,
+        "longitude": 29.96045595818043,
+        "description":  "3and gleem bay El geish going from 26th july to gleem to near citadel",
+        "fare":15
+    },
+
+    {
+        "plateNo": "س م ح 5468",
+        "type": "Blue Bus",
+        "status": true,
+        "lastStation": "60a431f33662405484e5b845",
+        "path": [3, 4],
+        "latitude": 31.21075481701111,
+        "longitude": 29.920033792689676,
+        "description":  "3and kobry el gam3a handasa to deeb mall abouqueer",
+        "fare":5
+    },
+    {
+        "plateNo": "7aga elmafrood matetla3sh",
+        "type": "shitty type",
+        "status": true,
+        "lastStation": "60a431f33662405484e5b83f",
+        "path": [1, 2],
+        "latitude": 31.20071064807695,
+        "longitude": 29.89106960486688 ,
+        "description":"been handasa w bahary",
+        "fare":10
+    }
+]
